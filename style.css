@@ -275,7 +275,7 @@ li.dropdown {
 /* About Us Section */
 .about_us {
     padding: 60px 20px 120px;
-    background-image: url(../images/bg1.png);
+    background-image: url(../Project-2-CSS-Foundation/images/bg1.png);
     background-size: 2000px;
 }
 
@@ -357,7 +357,7 @@ li.dropdown {
 .why_us {
     background: var(--light-gray-color);
     padding: 60px 20px 120px;
-    background-image: url(../images/bg3.png);
+    background-image: url(../Project-2-CSS-Foundation/images/bg3.png);
     background-size: cover;
     background-position: bottom;
 }
